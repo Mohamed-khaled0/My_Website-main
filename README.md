@@ -10,15 +10,12 @@ This is the repository for my personal website. It showcases my portfolio, blog,
 
 ## About
 
-This website serves as an online portfolio and blog for showcasing my projects, skills, and thoughts. It is built using HTML, CSS, and JavaScript.
+This website serves as my personal portfolio . It is built using HTML and CSS, and I have made custom edits to the template to personalize it to my needs.
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
-- Bootstrap (optional)
-- jQuery (optional)
 
 
 ## Usage
