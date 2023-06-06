@@ -379,6 +379,28 @@ section {
   display: block;
   background: none;
   border-radius: 0;
+  color: #000000; /* Change to black color */
+}
+
+.skills .progress .skill {
+  padding: 0;
+  margin: 0 0 6px 0;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: #000000; /* Change to black color */
+}
+
+
+
+/*--------------------------------------------------------------
+# Resume 
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
   color: #19a9e2;
 }
 
@@ -391,10 +413,6 @@ section {
   font-family: "Poppins", sans-serif;
   color: #149ddd;
 }
-
-
-/*--------------------------------------------------------------
-# Resume 
 --------------------------------------------------------------*/
 .resume .resume-title {
   font-size: 26px;
