@@ -374,12 +374,6 @@ section {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
-hr {
-    border-color: #139ddc;
-}
-
-
-
 .skills .progress {
   height: 60px;
   display: block;
@@ -395,20 +389,7 @@ hr {
   font-family: "Poppins", sans-serif;
   color: #050d18;
 }
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-.skills .progress-bar-wrap {
-  background: #149ddd;
-  height: 10px;
-}
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #149ddd;
-}
+
 
 /*--------------------------------------------------------------
 # Resume
