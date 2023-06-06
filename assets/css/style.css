@@ -387,12 +387,13 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #149ddd;
+  color: #000000;
+
 }
 
 
 /*--------------------------------------------------------------
-# Resume
+# Resume 149ddd
 --------------------------------------------------------------*/
 .resume .resume-title {
   font-size: 26px;
