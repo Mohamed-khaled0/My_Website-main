@@ -375,7 +375,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 50px;
+  height: 60px;
   display: block;
   background: none;
   border-radius: 0;
@@ -389,12 +389,12 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #149ddd;
 }
 
 
 /*--------------------------------------------------------------
-# Resume 149ddd
+# Resume 
 --------------------------------------------------------------*/
 .resume .resume-title {
   font-size: 26px;
