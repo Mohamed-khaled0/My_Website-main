@@ -372,7 +372,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -394,7 +394,7 @@ section {
   font-style: normal;
 }
 .skills .progress-bar-wrap {
-  background: #dce8f8;
+  background: #149ddd;
   height: 10px;
 }
 .skills .progress-bar {
