@@ -375,11 +375,13 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 50px;
   display: block;
   background: none;
   border-radius: 0;
-}
+  color: #19a9e2;
+
+
 .skills .progress .skill {
   padding: 0;
   margin: 0 0 6px 0;
@@ -387,8 +389,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #000000;
-
+  color: #050d18;
 }
 
 
